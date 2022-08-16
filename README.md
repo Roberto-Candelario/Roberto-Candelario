@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roberto-Candelario
-- 👀 I’m interested in R, SQL and Python at the momnent.
-- 🌱 I’m currently learning R, SQL and Python
+- 👀 I am in R, SQL and Python development.
+
 
 
 <!---
